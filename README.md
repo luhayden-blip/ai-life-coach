@@ -1,5 +1,13 @@
 # AI人生教练（ai-life-coach）
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-2.0.5-blue" alt="version">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="license">
+  <img src="https://img.shields.io/badge/platform-WorkBuddy%20Skill-orange" alt="platform">
+  <a href="https://clawhub.ai"><img src="https://img.shields.io/badge/available%20on-ClawHub-blueviolet" alt="ClawHub"></a>
+  <a href="https://skillhub.workbuddy.ai"><img src="https://img.shields.io/badge/available%20on-SkillHub-blueviolet" alt="SkillHub"></a>
+</p>
+
 一个只会提问、不替你做决定的陪伴型 AI 教练技能。基于斯坦福人生设计课（d.school）、积极心理学、焦点解决短期疗法（SFBT）与「有限游戏 vs 无限游戏」方法论融合而成。
 
 > 有时候不是你不努力，是你还没看清自己真正想要什么。
@@ -34,7 +42,7 @@
 
 ## 版本
 
-当前版本 **v2.0.4**。完整设计理念与版本记录见《设计理念与版本记录》。
+当前版本 **v2.0.5**。完整设计理念与版本记录见《设计理念与版本记录》。
 
 ## License
 
