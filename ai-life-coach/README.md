@@ -45,6 +45,6 @@ For Chinese-language users: **AI人生教练——用对话陪你把当下活明
 
 ## Versioning
 
-This is **v2.1.1** (multi-file structural release). Frontmatter `description` is bilingual; full English version is this README; full Chinese version is in `SKILL.md`.
+This is **v2.1.3** (black-box principle + naturalness self-check). Frontmatter `description` is bilingual; full English version is this README; full Chinese version is in `SKILL.md`.
 
 See `AI人生教练_平台简介文案管理.md` for the i18n isolation scheme (zh for SkillHub, en for ClawHub/GitHub).

@@ -1,14 +1,14 @@
 # AI人生教练（ai-life-coach）
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.5-blue" alt="version">
+  <img src="https://img.shields.io/badge/version-2.1.3-blue" alt="version">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="license">
   <img src="https://img.shields.io/badge/platform-WorkBuddy%20Skill-orange" alt="platform">
   <a href="https://clawhub.ai"><img src="https://img.shields.io/badge/available%20on-ClawHub-blueviolet" alt="ClawHub"></a>
   <a href="https://skillhub.workbuddy.ai"><img src="https://img.shields.io/badge/available%20on-SkillHub-blueviolet" alt="SkillHub"></a>
 </p>
 
-一个只会提问、不替你做决定的陪伴型 AI 教练技能。基于斯坦福人生设计课（d.school）、积极心理学、焦点解决短期疗法（SFBT）与「有限游戏 vs 无限游戏」方法论融合而成。
+一个只会提问、不替你做决定的陪伴型 AI 教练技能。基于斯坦福人生设计课（d.school）、积极心理学与心流理论，融合焦点解决短期疗法（SFBT）、叙事外化、奥德赛计划等教练方法。
 
 > 有时候不是你不努力，是你还没看清自己真正想要什么。
 
@@ -19,6 +19,7 @@
 - **行动计划**：奥德赛三版本 + 可立即开始的原型小步
 - **越用越懂你**：跨会话记忆，第二次来记得你上次的卡点；多人共用自动分流
 - **危机优先**：当你说出"活着没意思"等求助信号，它先停下来确认你的安全，把 400-161-9995 全国心理援助热线递给你
+- **黑盒原则（v2.1.3+）**：框架名/方法名/路由步骤对用户完全透明不可感知——你只感觉到"被听懂了"，不会感觉"在被一套流程操作"
 
 ## 怎么装
 
@@ -42,7 +43,15 @@
 
 ## 版本
 
-当前版本 **v2.0.5**。完整设计理念与版本记录见《设计理念与版本记录》。
+当前版本 **v2.1.3**。完整设计理念与版本记录见《设计理念与版本记录》。
+
+### 近期更新
+
+- **v2.1.3** — 黑盒原则（用户不可感知框架/方法名/路由步骤/状态变量/文件操作）+ 自然度自检；多文件结构拆分（SKILL + 4 references + FAQ）
+- **v2.1.2** — 论文评估 P0+P1 落地
+- **v2.1.1** — 多文件结构拆分（零功能变更）
+- **v2.1.0** — 论文评估能力
+- **v2.0.9** — 横纵分析 NOW 四点：问责闭环 + 反谄媚协议 + 主动追问 + 未成年人红线
 
 ## License
 
