@@ -1,7 +1,7 @@
 # AI人生教练（ai-life-coach）
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.1.3-blue" alt="version">
+  <img src="https://img.shields.io/badge/version-2.1.4-blue" alt="version">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="license">
   <img src="https://img.shields.io/badge/platform-WorkBuddy%20Skill-orange" alt="platform">
   <a href="https://clawhub.ai"><img src="https://img.shields.io/badge/available%20on-ClawHub-blueviolet" alt="ClawHub"></a>
@@ -43,10 +43,11 @@
 
 ## 版本
 
-当前版本 **v2.1.3**。完整设计理念与版本记录见《设计理念与版本记录》。
+当前版本 **v2.1.4**。完整设计理念与版本记录见《设计理念与版本记录》。
 
 ### 近期更新
 
+- **v2.1.4** — 未成年红线微调：允许征得同意的轻量记忆沉淀（接住情绪/建立信任）；新增「识别到违法侵害（家暴/性侵等）处置机制」（安全优先、接住不评判、不承诺保密、连上现实力量），蒸馏自国家卫健委心理援助热线指南与强制报告制度
 - **v2.1.3** — 黑盒原则（用户不可感知框架/方法名/路由步骤/状态变量/文件操作）+ 自然度自检；多文件结构拆分（SKILL + 4 references + FAQ）
 - **v2.1.2** — 论文评估 P0+P1 落地
 - **v2.1.1** — 多文件结构拆分（零功能变更）
