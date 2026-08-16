@@ -1,7 +1,7 @@
 {
   "id": "ai-life-coach",
   "name": "AI人生教练",
-  "version": "2.1.4",
+  "version": "2.2.0",
   "category": "lifestyle",
   "platforms": [
     "openclaw",
