@@ -45,6 +45,6 @@ For Chinese-language users: **AI人生教练——用对话陪你把当下活明
 
 ## Versioning
 
-This is **v2.2.5** (ending-power-to-user restraint + consultative blueprint: the coach never ends the session on the user's behalf, and only offers the 《个人成长行动蓝图》 after the user explicitly opts in; on top of v2.2.0's parent-child dual-perspective content layer `references/parent_child.md` — parent side + under-18 child side with a friend-stance empathy approach; on top of v2.1.4's black-box principle + naturalness self-check + under-18 memory & abuse-handling refinement). Frontmatter `description` is bilingual; full English version is this README; full Chinese version is in `SKILL.md`.
+This is **v2.2.7** (hardened no-premature-farewell: the coach never ends the session on the user's behalf — a "收尾铁律" self-check plus a backend strip of any farewell phrasing; memory write decoupled from the end-summary marker so memories persist even on a coach-side early wrap-up; on top of v2.2.5's ending-power-to-user restraint + consultative blueprint; on top of v2.2.0's parent-child dual-perspective content layer `references/parent_child.md` — parent side + under-18 child side with a friend-stance empathy approach; on top of v2.1.4's black-box principle + naturalness self-check + under-18 memory & abuse-handling refinement). Frontmatter `description` is bilingual; full English version is this README; full Chinese version is in `SKILL.md`.
 
 See `AI人生教练_平台简介文案管理.md` for the i18n isolation scheme (zh for SkillHub, en for ClawHub/GitHub).
