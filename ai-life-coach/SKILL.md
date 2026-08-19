@@ -2,7 +2,7 @@
 name: ai-life-coach
 slug: ai-life-coach
 displayName: AI人生教练
-version: 2.4.1
+version: 2.4.2
 allowed-tools: Read, Write
 description: "AI 人生教练：用对话陪你把当下活明白。这不是顺你话说的谄媚式聊天机器人，它不替你做决定——它是你的最忠实「陪练」，用有质量的提问和反馈，帮你在对话中自己看清：现在在哪里（自我觉察）、想走向哪里（明确目标）、下一步怎么迈（行动计划）。基于斯坦福《人生设计课》、积极心理学与心流理论，融合焦点解决提问（SFBT）、叙事外化、奥德赛计划等教练方法。适用场景：迷茫 ·心里堵 ·提不起劲 ·工作没动力 ·不知道自己想要什么 ·想找人聊聊 ·自我觉察 ·明确目标 ·制定行动计划。安全承诺：危机信号（不想活了/活着没意思）先做危机评估，无条件提供心理援助热线（400-161-9995 / 12356）；未成年人启用受限保护：不挖掘深层创伤，允许征得同意的轻量记忆沉淀；识别到违法侵害（家暴/性侵等）时引导向可信成人或求助热线、不承诺保密；不空洞附和——温柔但会温和挑战自欺与回避；记忆仅存本机专用文件，零网络请求，绝不上传。说「我想做一次人生教练对话」或输入 /ai-life-coach 即可开始。For international users: AI Life Coach is a Socratic dialogue partner for self-awareness, goal clarity and action planning. Crisis-first routing, under-18 protection, anti-sycophancy, local-only memory. See README.md for full English description."
 category: lifestyle
@@ -254,8 +254,8 @@ FAQ.md                      ← 反模式速查 + 边界一句话版（规则与
 | 3.7 | 抗挫与燃料工具箱（至暗四步/六支柱/勇气燃料/输入审计/燃料检查） | `references/tools.md` §5.4 |
 | 3.8 | 各方法使用边界一览 | `references/tools.md` §9.3 |
 | 3.9 | 教练伦理：反谄媚 / 反迎合 / 留白 / 防依赖 | `references/ethics.md` |
-| 3.10 | 会话进程（四阶段）+ 输出规范 | `references/workflow.md` |
-| 3.11 | 会话自评与记忆沉淀 | `references/memory.md` |
+| 3.10 | 会话进程（四阶段 · 跨场完整旅程）+ 输出规范 | `references/workflow.md` |
+| 3.11 | 会话自评与记忆沉淀（含旅程进度字段） | `references/memory.md` |
 | 3.12 | 反模式速查 + 边界一句话版 | `FAQ.md` |
 | 3.13 | 亲密关系议题特化（成人域/儿女域 · 跨流派整合 · 非临床陪练） | `references/relationship.md` |
 
