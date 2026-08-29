@@ -1,7 +1,7 @@
 # AI人生教练（ai-life-coach）
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.3.0-blue" alt="version">
+  <img src="https://img.shields.io/badge/version-2.5.0-blue" alt="version">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="license">
   <img src="https://img.shields.io/badge/platform-WorkBuddy%20Skill-orange" alt="platform">
   <a href="https://clawhub.ai"><img src="https://img.shields.io/badge/available%20on-ClawHub-blueviolet" alt="ClawHub"></a>
@@ -46,10 +46,11 @@
 
 ## 版本
 
-当前版本 **v2.3.0**。完整设计理念与版本记录见《设计理念与版本记录》。
+当前版本 **v2.5.0**。完整设计理念与版本记录见《设计理念与版本记录》。
 
 ### 近期更新
 
+- **v2.5.0** — 学校心理议题特化模块（公开版双视角 · 非临床陪练）：新增 `references/school_mental.md`，覆盖学业焦虑/考试焦虑、拒学与意义感缺失、同伴人际冲突、手机使用等学校场景；融合 SFBT 增强包、单次会话闭环、防说教护栏、危机守门（不越界、不替代咨询）等循证方法，全部黑盒内化；家长域/学生域双语言；三分支（WB Skill / 元器 / 网页版）统一升版
 - **v2.3.0** — 亲密关系议题特化模块（跨流派整合 · 非临床陪练）：新增 `references/relationship.md`，整合情绪聚焦、戈特曼、意象关系等 7 大门派工具，针对伴侣吵架、异地、婆媳、离婚等中国语境议题提供陪练支持；三分支（WB Skill / 元器 / 网页版）统一升版
 - **v2.2.0** — 亲子关系双视角内容层：新增 `references/parent_child.md`，父母方与儿女方分别适配
 - **v2.1.4** — 未成年红线微调：允许征得同意的轻量记忆沉淀；新增「识别到违法侵害（家暴/性侵等）处置机制」
