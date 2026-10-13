@@ -1,14 +1,14 @@
 # AI人生教练（ai-life-coach）
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.5.0-blue" alt="version">
+  <img src="https://img.shields.io/badge/version-2.8.0-blue" alt="version">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="license">
   <img src="https://img.shields.io/badge/platform-WorkBuddy%20Skill-orange" alt="platform">
   <a href="https://clawhub.ai"><img src="https://img.shields.io/badge/available%20on-ClawHub-blueviolet" alt="ClawHub"></a>
-  <a href="https://skillhub.workbuddy.ai"><img src="https://img.shields.io/badge/available%20on-SkillHub-blueviolet" alt="SkillHub"></a>
+  <a href="https://skillhub.cn"><img src="https://img.shields.io/badge/available%20on-SkillHub-blueviolet" alt="SkillHub"></a>
 </p>
 
-一个只会提问、不替你做决定的陪伴型 AI 教练技能。基于斯坦福人生设计课（d.school）、积极心理学与心流理论，融合焦点解决短期疗法（SFBT）、叙事外化、奥德赛计划、有限游戏重构等教练方法。最新 **v2.3.0** 新增亲密关系议题特化模块（跨流派整合 · 非临床陪练 · 中国语境适配）。
+一个只会提问、不替你做决定的陪伴型 AI 教练技能。基于斯坦福人生设计课（d.school）、积极心理学与心流理论，融合焦点解决短期疗法（SFBT）、叙事外化、奥德赛计划、有限游戏重构等教练方法。当前 **v2.8.0**：新增挫败修复通路、扩充危机信号覆盖、收尾轻量刻度（网页版）、2 小时连续使用提醒等循证改进。
 
 > 有时候不是你不努力，是你还没看清自己真正想要什么。
 
@@ -29,7 +29,8 @@
 |---|---|
 | **WorkBuddy**（推荐） | 技能广场搜索 `ai-life-coach` → 安装 |
 | **ClawHub** | clawhub.ai 搜索 `ai-life-coach` → 安装 |
-| **网页版（功能最完整）** | 浏览器打开 [coach.gzccadinspect.top](https://coach.gzccadinspect.top) |
+| **SkillHub** | skillhub.cn 搜索 `ai-life-coach` → 安装 |
+| **网页版（功能最完整）** | 浏览器打开 [www.ailifecoach.cn](https://www.ailifecoach.cn) |
 | **手动** | 把 `ai-life-coach/` 目录拷到你的 skills 目录（`~/.workbuddy/skills/`） |
 
 ## 怎么用
@@ -46,17 +47,20 @@
 
 ## 版本
 
-当前版本 **v2.5.0**。完整设计理念与版本记录见《设计理念与版本记录》。
+当前版本 **v2.8.0**（全分支统一）。完整设计理念与版本记录见《设计理念与版本记录》。
 
 ### 近期更新
 
-- **v2.5.0** — 学校心理议题特化模块（公开版双视角 · 非临床陪练）：新增 `references/school_mental.md`，覆盖学业焦虑/考试焦虑、拒学与意义感缺失、同伴人际冲突、手机使用等学校场景；融合 SFBT 增强包、单次会话闭环、防说教护栏、危机守门（不越界、不替代咨询）等循证方法，全部黑盒内化；家长域/学生域双语言；三分支（WB Skill / 元器 / 网页版）统一升版
-- **v2.3.0** — 亲密关系议题特化模块（跨流派整合 · 非临床陪练）：新增 `references/relationship.md`，整合情绪聚焦、戈特曼、意象关系等 7 大门派工具，针对伴侣吵架、异地、婆媳、离婚等中国语境议题提供陪练支持；三分支（WB Skill / 元器 / 网页版）统一升版
-- **v2.2.0** — 亲子关系双视角内容层：新增 `references/parent_child.md`，父母方与儿女方分别适配
+- **v2.8.0** — 循证改进包：挫败修复通路（被说「你不懂我」时先承认边界、再换轨，每会话至多一次，不给固定话术）、危机信号黑名单扩充（自伤委婉语 + 他伤词表）、收尾轻量刻度（仅网页版，自然语言单问 0-10）、定小步时一句自然的「如果…我就…」确认、留存替代（未完成节点可见 + 收尾小结可复制/导出）、2 小时连续使用提醒（《人工智能拟人化互动服务管理暂行办法》要求）
+- **v2.7.1** — 落地去执着化：不再同场反复追问上次的小步（只在隔天回访 / 用户主动提起 / 明确索要时才问）
+- **v2.7.0** — 职业议题接线：四型分流（先分清「往哪走」还是「不敢动」）；职业信息拒答纪律 / 小步可逆性 / 反偏见与测评素材化
+- **v2.6.9** — 蓝图带走工具：交付《个人成长行动蓝图》后可「复制全文 / 存为 PDF」
+- **v2.6.8** — 对话记录本机落盘 + 切走恢复：切后台再回来不再丢整场对话
+- **v2.5.0** — 学校心理议题特化模块（公开版双视角 · 非临床陪练）
+- **v2.3.0** — 亲密关系议题特化模块（跨流派整合 · 非临床陪练 · 中国语境适配）
+- **v2.2.0** — 亲子关系双视角内容层：父母方与儿女方分别适配
 - **v2.1.4** — 未成年红线微调：允许征得同意的轻量记忆沉淀；新增「识别到违法侵害（家暴/性侵等）处置机制」
 - **v2.1.3** — 黑盒原则 + 自然度自检；多文件结构拆分
-- **v2.1.2** — 论文评估 P0+P1 落地
-- **v2.1.1** — 多文件结构拆分（零功能变更）
 - **v2.1.0** — 论文评估能力
 - **v2.0.9** — 横纵分析 NOW 四点：问责闭环 + 反谄媚协议 + 主动追问 + 未成年人红线
 
